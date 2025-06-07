@@ -6,15 +6,11 @@ class Solution {
 
             if(nums[i]==1){
                 temp++;
+                ans = Math.max(temp, ans);
             }else{
-                if(temp>ans){
-                    ans=temp;
-                }
                 temp=0;
             }
         }
-        if(temp>ans)
-        ans=temp;
         
         return ans;
     }
