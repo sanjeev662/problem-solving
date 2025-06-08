@@ -49,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sanjeev662/problem-solving/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/sanjeev662/problem-solving/tree/master/1078-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/sanjeev662/problem-solving/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
