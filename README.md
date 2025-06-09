@@ -80,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/sanjeev662/problem-solving/tree/master/0812-rotate-string) |
+## Database
+|  |
+| ------- |
+| [1258-article-views-i](https://github.com/sanjeev662/problem-solving/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
