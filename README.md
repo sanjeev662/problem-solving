@@ -86,5 +86,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/sanjeev662/problem-solving/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/sanjeev662/problem-solving/tree/master/0577-employee-bonus) |
 | [1258-article-views-i](https://github.com/sanjeev662/problem-solving/tree/master/1258-article-views-i) |
+| [1415-students-and-examinations](https://github.com/sanjeev662/problem-solving/tree/master/1415-students-and-examinations) |
 | [1827-invalid-tweets](https://github.com/sanjeev662/problem-solving/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
