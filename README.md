@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sanjeev662/problem-solving/tree/master/0048-rotate-image) |
+| [2050-count-good-numbers](https://github.com/sanjeev662/problem-solving/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/sanjeev662/problem-solving/tree/master/1258-article-views-i) |
 | [1415-students-and-examinations](https://github.com/sanjeev662/problem-solving/tree/master/1415-students-and-examinations) |
 | [1827-invalid-tweets](https://github.com/sanjeev662/problem-solving/tree/master/1827-invalid-tweets) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/sanjeev662/problem-solving/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
