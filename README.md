@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjeev662/problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sanjeev662/problem-solving/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/sanjeev662/problem-solving/tree/master/0485-max-consecutive-ones) |
+| [2058-concatenation-of-array](https://github.com/sanjeev662/problem-solving/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sanjeev662/problem-solving/tree/master/0054-spiral-matrix) |
+| [2058-concatenation-of-array](https://github.com/sanjeev662/problem-solving/tree/master/2058-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
