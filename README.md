@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sanjeev662/problem-solving/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/sanjeev662/problem-solving/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/sanjeev662/problem-solving/tree/master/0485-max-consecutive-ones) |
+| [0817-design-hashmap](https://github.com/sanjeev662/problem-solving/tree/master/0817-design-hashmap) |
 | [2058-concatenation-of-array](https://github.com/sanjeev662/problem-solving/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sanjeev662/problem-solving/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sanjeev662/problem-solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sanjeev662/problem-solving/tree/master/0242-valid-anagram) |
+| [0817-design-hashmap](https://github.com/sanjeev662/problem-solving/tree/master/0817-design-hashmap) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -102,4 +104,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/sanjeev662/problem-solving/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/sanjeev662/problem-solving/tree/master/2050-count-good-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/sanjeev662/problem-solving/tree/master/0817-design-hashmap) |
+## Design
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/sanjeev662/problem-solving/tree/master/0817-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/sanjeev662/problem-solving/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
