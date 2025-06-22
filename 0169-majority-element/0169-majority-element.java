@@ -1,7 +1,7 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        return majorityElementByMap(nums);
-        // return majorityElementBySort(nums);
+        // return majorityElementByMap(nums);
+        return majorityElementBySort(nums);
     }
 
     public int majorityElementByMap(int[] nums) {
