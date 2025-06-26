@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sanjeev662/problem-solving/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sanjeev662/problem-solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sanjeev662/problem-solving/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/sanjeev662/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/sanjeev662/problem-solving/tree/master/0485-max-consecutive-ones) |
 | [0816-design-hashset](https://github.com/sanjeev662/problem-solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sanjeev662/problem-solving/tree/master/0817-design-hashmap) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sanjeev662/problem-solving/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sanjeev662/problem-solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sanjeev662/problem-solving/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/sanjeev662/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0816-design-hashset](https://github.com/sanjeev662/problem-solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sanjeev662/problem-solving/tree/master/0817-design-hashmap) |
 ## Bit Manipulation
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sanjeev662/problem-solving/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sanjeev662/problem-solving/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/sanjeev662/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/sanjeev662/problem-solving/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sanjeev662/problem-solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sanjeev662/problem-solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sanjeev662/problem-solving/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/sanjeev662/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/sanjeev662/problem-solving/tree/master/0948-sort-an-array) |
 ## String Matching
 |  |
@@ -145,9 +149,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sanjeev662/problem-solving/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/sanjeev662/problem-solving/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanjeev662/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/sanjeev662/problem-solving/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -156,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanjeev662/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/sanjeev662/problem-solving/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -165,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/sanjeev662/problem-solving/tree/master/0948-sort-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanjeev662/problem-solving/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
