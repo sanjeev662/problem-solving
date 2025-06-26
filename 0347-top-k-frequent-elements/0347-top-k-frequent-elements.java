@@ -1,34 +1,41 @@
-import java.util.*;
-
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
-        
-        // Frequency Map
-        Map<Integer, Integer> freqMap = new HashMap<>();
-        
-        for (int num : nums) {
-            freqMap.put(num, freqMap.getOrDefault(num, 0) + 1);
+        Map<Integer,Integer> mp=new HashMap<>();
+        for(int i=0;i<nums.length;i++){
+            mp.put(nums[i],mp.getOrDefault(nums[i],0)+1);
         }
-        
-        // Min-Heap storing Map.Entry (key: number, value: frequency)
-        PriorityQueue<Map.Entry<Integer, Integer>> heap = new PriorityQueue<>(
-            (a, b) -> a.getValue() - b.getValue() // Min-Heap by frequency
+
+        // PriorityQueue<Map.Entry<Integer,Integer>> heap=new PriorityQueue<>((a,b)-> a.getValue()-b.getValue());
+
+        // for(Map.Entry<Integer,Integer> map : mp.entrySet()){
+        //     heap.add(map);
+        //     if(heap.size()>2){
+        //         heap.poll();
+        //     }
+        // }
+
+        // int[] ans= new int[k];
+        // for(int i=0;i<k;i++){
+        //     ans[i] = heap.poll().getKey();
+        // }
+
+        PriorityQueue<Integer> heap= new PriorityQueue<>(
+            (a,b) -> mp.get(a)-mp.get(b)
         );
-        
-        // Add entries to heap
-        for (Map.Entry<Integer, Integer> entry : freqMap.entrySet()) {
-            heap.add(entry);
-            if (heap.size() > k) {
-                heap.poll(); // Remove least frequent
+
+        for(Map.Entry<Integer,Integer> map : mp.entrySet()){
+
+            heap.add(map.getKey());
+            if(heap.size()>k){
+                heap.poll();
             }
         }
-        
-        // Prepare result
-        int[] res = new int[k];
-        for (int i = k - 1; i >= 0; i--) {
-            res[i] = heap.poll().getKey();
+
+        int[] ans= new int[k];
+        for(int i=0;i<k;i++){
+            ans[i]=heap.poll();
         }
-        
-        return res;
+
+        return ans;
     }
 }
