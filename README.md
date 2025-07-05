@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/sanjeev662/problem-solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/sanjeev662/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/sanjeev662/problem-solving/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/sanjeev662/problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/sanjeev662/problem-solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sanjeev662/problem-solving/tree/master/0817-design-hashmap) |
 | [0948-sort-an-array](https://github.com/sanjeev662/problem-solving/tree/master/0948-sort-an-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sanjeev662/problem-solving/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sanjeev662/problem-solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sanjeev662/problem-solving/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/sanjeev662/problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/sanjeev662/problem-solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sanjeev662/problem-solving/tree/master/0817-design-hashmap) |
 ## Bit Manipulation
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sanjeev662/problem-solving/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sanjeev662/problem-solving/tree/master/0304-range-sum-query-2d-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/sanjeev662/problem-solving/tree/master/0560-subarray-sum-equals-k) |
 ## Union Find
 |  |
 | ------- |
