@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sanjeev662/problem-solving/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjeev662/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sanjeev662/problem-solving/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/sanjeev662/problem-solving/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sanjeev662/problem-solving/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sanjeev662/problem-solving/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/sanjeev662/problem-solving/tree/master/0238-product-of-array-except-self) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/sanjeev662/problem-solving/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sanjeev662/problem-solving/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/sanjeev662/problem-solving/tree/master/0189-rotate-array) |
 | [2050-count-good-numbers](https://github.com/sanjeev662/problem-solving/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sanjeev662/problem-solving/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/sanjeev662/problem-solving/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjeev662/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/sanjeev662/problem-solving/tree/master/0189-rotate-array) |
 | [0680-valid-palindrome-ii](https://github.com/sanjeev662/problem-solving/tree/master/0680-valid-palindrome-ii) |
 | [1894-merge-strings-alternately](https://github.com/sanjeev662/problem-solving/tree/master/1894-merge-strings-alternately) |
 ## Trie
