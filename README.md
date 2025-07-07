@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sanjeev662/problem-solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sanjeev662/problem-solving/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sanjeev662/problem-solving/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/sanjeev662/problem-solving/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sanjeev662/problem-solving/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/sanjeev662/problem-solving/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sanjeev662/problem-solving/tree/master/0304-range-sum-query-2d-immutable) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sanjeev662/problem-solving/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/sanjeev662/problem-solving/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sanjeev662/problem-solving/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/sanjeev662/problem-solving/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sanjeev662/problem-solving/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sanjeev662/problem-solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sanjeev662/problem-solving/tree/master/0347-top-k-frequent-elements) |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sanjeev662/problem-solving/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sanjeev662/problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/sanjeev662/problem-solving/tree/master/0680-valid-palindrome-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/sanjeev662/problem-solving/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
