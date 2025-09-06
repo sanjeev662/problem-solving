@@ -4,7 +4,9 @@ class Solution {
     public List<String> generateParenthesis(int n) {
         List<String> ans=new ArrayList<>();
         String curr="";
-        solve(curr,n,ans,0,0);
+        int open=0;
+        int close=0;
+        solve(curr,n,ans,open,close);
         return ans;
 
     }
