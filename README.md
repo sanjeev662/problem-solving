@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjeev662/problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/sanjeev662/problem-solving/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/sanjeev662/problem-solving/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sanjeev662/problem-solving/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/sanjeev662/problem-solving/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sanjeev662/problem-solving/tree/master/0205-isomorphic-strings) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sanjeev662/problem-solving/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/sanjeev662/problem-solving/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/sanjeev662/problem-solving/tree/master/1078-remove-outermost-parentheses) |
 ## Two Pointers
