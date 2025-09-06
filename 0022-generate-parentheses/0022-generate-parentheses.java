@@ -4,20 +4,25 @@ class Solution {
     public List<String> generateParenthesis(int n) {
         List<String> ans=new ArrayList<>();
         String curr="";
-        solve(curr,n,ans);
+        solve(curr,n,ans,0,0);
         return ans;
 
     }
-    public void solve(String curr,int n, List<String> ans){
+    public void solve(String curr,int n, List<String> ans,int open,int close){
         if(curr.length()==2*n){
             if(isValid(curr)) ans.add(curr);
             return;
         }
+        if(open<n){
         curr+='(';
-        solve(curr,n,ans);
+        solve(curr,n,ans,open+1,close);
         curr = curr.substring(0, curr.length() - 1);
+    }
+    if(open>close){
         curr+=')';
-        solve(curr,n,ans);
+        solve(curr,n,ans,open,close+1);
+        curr = curr.substring(0, curr.length() - 1);
+    }
     }
 
     private boolean isValid(String str) {
