@@ -4,39 +4,34 @@ class Solution {
        Stack<Integer> currNum=new Stack<>();
 
        int n=s.length();
+       String num="";
+       String str="";
+
        for(int i=0; i<n;i++){
         char ch=s.charAt(i);
-        if(']'== ch && !currStr.isEmpty()){
-            String temp="";
-            while(!currStr.peek().equals("[") && !currStr.isEmpty()){
-                temp=currStr.pop()+temp;
-            }
-            currStr.pop();
+        if(Character.isDigit(ch)){
+            num+=ch;
+        }
+        else if('['== ch){
+            currNum.push(Integer.parseInt(num));
+            currStr.push(str);
+            num="";
+            str="";
+        }
+        else if(']'== ch){
+            String prevStr=currStr.pop();
             int count=currNum.pop();
             String tempFinal="";
             while(count>0){
-                tempFinal+=temp;
+                tempFinal+=str;
                 count--;
             }
-            currStr.push(tempFinal);
-        }else if(Character.isDigit(ch)){
-            String str="";
-            while(s.charAt(i)!='['){
-                str+=s.charAt(i);
-                if(i<n-1)
-                i++;
-            }
-            i--;
-            currNum.push(Integer.parseInt(str));
+            str=prevStr+tempFinal;
         }
         else{
-            currStr.push(""+ch);
+            str+=ch;
         }
        }
-       String ans="";
-       while(!currStr.isEmpty()){
-            ans=currStr.pop()+ans;
-       }
-       return ans;
+        return str;
     }
 }
