@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sanjeev662/problem-solving/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sanjeev662/problem-solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sanjeev662/problem-solving/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/sanjeev662/problem-solving/tree/master/0394-decode-string) |
 | [0680-valid-palindrome-ii](https://github.com/sanjeev662/problem-solving/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/sanjeev662/problem-solving/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/sanjeev662/problem-solving/tree/master/1078-remove-outermost-parentheses) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanjeev662/problem-solving/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/sanjeev662/problem-solving/tree/master/0071-simplify-path) |
+| [0394-decode-string](https://github.com/sanjeev662/problem-solving/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/sanjeev662/problem-solving/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sanjeev662/problem-solving/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sanjeev662/problem-solving/tree/master/0739-daily-temperatures) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sanjeev662/problem-solving/tree/master/0050-powx-n) |
+| [0394-decode-string](https://github.com/sanjeev662/problem-solving/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/sanjeev662/problem-solving/tree/master/2050-count-good-numbers) |
 ## Linked List
 |  |
