@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sanjeev662/problem-solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sanjeev662/problem-solving/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/sanjeev662/problem-solving/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/sanjeev662/problem-solving/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjeev662/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/sanjeev662/problem-solving/tree/master/0374-guess-number-higher-or-lower) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/sanjeev662/problem-solving/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sanjeev662/problem-solving/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/sanjeev662/problem-solving/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sanjeev662/problem-solving/tree/master/0189-rotate-array) |
 | [2050-count-good-numbers](https://github.com/sanjeev662/problem-solving/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
