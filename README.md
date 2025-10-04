@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/sanjeev662/problem-solving/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/sanjeev662/problem-solving/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/sanjeev662/problem-solving/tree/master/0948-sort-an-array) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/sanjeev662/problem-solving/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2058-concatenation-of-array](https://github.com/sanjeev662/problem-solving/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/sanjeev662/problem-solving/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/sanjeev662/problem-solving/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/sanjeev662/problem-solving/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/sanjeev662/problem-solving/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Matrix
 |  |
 | ------- |
