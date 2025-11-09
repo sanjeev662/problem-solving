@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/sanjeev662/problem-solving/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sanjeev662/problem-solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/sanjeev662/problem-solving/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sanjeev662/problem-solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0394-decode-string](https://github.com/sanjeev662/problem-solving/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/sanjeev662/problem-solving/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sanjeev662/problem-solving/tree/master/0735-asteroid-collision) |
@@ -302,12 +303,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sanjeev662/problem-solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sanjeev662/problem-solving/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sanjeev662/problem-solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sanjeev662/problem-solving/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sanjeev662/problem-solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sanjeev662/problem-solving/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
