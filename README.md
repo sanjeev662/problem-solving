@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sanjeev662/problem-solving/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjeev662/problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/sanjeev662/problem-solving/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/sanjeev662/problem-solving/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/sanjeev662/problem-solving/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sanjeev662/problem-solving/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/sanjeev662/problem-solving/tree/master/0792-binary-search) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sanjeev662/problem-solving/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sanjeev662/problem-solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/sanjeev662/problem-solving/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/sanjeev662/problem-solving/tree/master/0695-max-area-of-island) |
 ## Simulation
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sanjeev662/problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/sanjeev662/problem-solving/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/sanjeev662/problem-solving/tree/master/0695-max-area-of-island) |
 ## Greedy
 |  |
 | ------- |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sanjeev662/problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/sanjeev662/problem-solving/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/sanjeev662/problem-solving/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/sanjeev662/problem-solving/tree/master/0695-max-area-of-island) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/sanjeev662/problem-solving/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sanjeev662/problem-solving/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sanjeev662/problem-solving/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/sanjeev662/problem-solving/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/sanjeev662/problem-solving/tree/master/0695-max-area-of-island) |
 ## Binary Search Tree
 |  |
 | ------- |
