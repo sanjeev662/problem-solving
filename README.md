@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/sanjeev662/problem-solving/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/sanjeev662/problem-solving/tree/master/0948-sort-an-array) |
 | [0953-verifying-an-alien-dictionary](https://github.com/sanjeev662/problem-solving/tree/master/0953-verifying-an-alien-dictionary) |
+| [0997-find-the-town-judge](https://github.com/sanjeev662/problem-solving/tree/master/0997-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sanjeev662/problem-solving/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2058-concatenation-of-array](https://github.com/sanjeev662/problem-solving/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/sanjeev662/problem-solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sanjeev662/problem-solving/tree/master/0817-design-hashmap) |
 | [0953-verifying-an-alien-dictionary](https://github.com/sanjeev662/problem-solving/tree/master/0953-verifying-an-alien-dictionary) |
+| [0997-find-the-town-judge](https://github.com/sanjeev662/problem-solving/tree/master/0997-find-the-town-judge) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -370,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sanjeev662/problem-solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sanjeev662/problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sanjeev662/problem-solving/tree/master/0450-delete-node-in-a-bst) |
+## Graph
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/sanjeev662/problem-solving/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
