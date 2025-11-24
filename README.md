@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/sanjeev662/problem-solving/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/sanjeev662/problem-solving/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/sanjeev662/problem-solving/tree/master/0948-sort-an-array) |
+| [0953-verifying-an-alien-dictionary](https://github.com/sanjeev662/problem-solving/tree/master/0953-verifying-an-alien-dictionary) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sanjeev662/problem-solving/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2058-concatenation-of-array](https://github.com/sanjeev662/problem-solving/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sanjeev662/problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/sanjeev662/problem-solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sanjeev662/problem-solving/tree/master/0817-design-hashmap) |
+| [0953-verifying-an-alien-dictionary](https://github.com/sanjeev662/problem-solving/tree/master/0953-verifying-an-alien-dictionary) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/sanjeev662/problem-solving/tree/master/0394-decode-string) |
 | [0680-valid-palindrome-ii](https://github.com/sanjeev662/problem-solving/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/sanjeev662/problem-solving/tree/master/0812-rotate-string) |
+| [0953-verifying-an-alien-dictionary](https://github.com/sanjeev662/problem-solving/tree/master/0953-verifying-an-alien-dictionary) |
 | [1078-remove-outermost-parentheses](https://github.com/sanjeev662/problem-solving/tree/master/1078-remove-outermost-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/sanjeev662/problem-solving/tree/master/1894-merge-strings-alternately) |
 ## Stack
