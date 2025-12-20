@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sanjeev662/problem-solving/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sanjeev662/problem-solving/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/sanjeev662/problem-solving/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/sanjeev662/problem-solving/tree/master/1137-n-th-tribonacci-number) |
 | [2050-count-good-numbers](https://github.com/sanjeev662/problem-solving/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sanjeev662/problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/sanjeev662/problem-solving/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/sanjeev662/problem-solving/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/sanjeev662/problem-solving/tree/master/1137-n-th-tribonacci-number) |
 ## String
 |  |
 | ------- |
@@ -414,4 +416,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/sanjeev662/problem-solving/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sanjeev662/problem-solving/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/sanjeev662/problem-solving/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
