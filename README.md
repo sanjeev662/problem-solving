@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sanjeev662/problem-solving/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sanjeev662/problem-solving/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sanjeev662/problem-solving/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/sanjeev662/problem-solving/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sanjeev662/problem-solving/tree/master/0189-rotate-array) |
 | [2050-count-good-numbers](https://github.com/sanjeev662/problem-solving/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/sanjeev662/problem-solving/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/sanjeev662/problem-solving/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/sanjeev662/problem-solving/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjeev662/problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sanjeev662/problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## String
@@ -402,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/sanjeev662/problem-solving/tree/master/0997-find-the-town-judge) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sanjeev662/problem-solving/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
