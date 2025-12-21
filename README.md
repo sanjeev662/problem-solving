@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/sanjeev662/problem-solving/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/sanjeev662/problem-solving/tree/master/0620-not-boring-movies) |
 | [1258-article-views-i](https://github.com/sanjeev662/problem-solving/tree/master/1258-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sanjeev662/problem-solving/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1415-students-and-examinations](https://github.com/sanjeev662/problem-solving/tree/master/1415-students-and-examinations) |
 | [1683-invalid-tweets](https://github.com/sanjeev662/problem-solving/tree/master/1683-invalid-tweets) |
 | [1827-invalid-tweets](https://github.com/sanjeev662/problem-solving/tree/master/1827-invalid-tweets) |
