@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/sanjeev662/problem-solving/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/sanjeev662/problem-solving/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/sanjeev662/problem-solving/tree/master/1068-product-sales-analysis-i) |
+| [1075-project-employees-i](https://github.com/sanjeev662/problem-solving/tree/master/1075-project-employees-i) |
 | [1251-average-selling-price](https://github.com/sanjeev662/problem-solving/tree/master/1251-average-selling-price) |
 | [1258-article-views-i](https://github.com/sanjeev662/problem-solving/tree/master/1258-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sanjeev662/problem-solving/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
