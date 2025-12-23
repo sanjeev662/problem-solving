@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sanjeev662/problem-solving/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/sanjeev662/problem-solving/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sanjeev662/problem-solving/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/sanjeev662/problem-solving/tree/master/0844-backspace-string-compare) |
 | [2058-concatenation-of-array](https://github.com/sanjeev662/problem-solving/tree/master/2058-concatenation-of-array) |
 ## Math
 |  |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/sanjeev662/problem-solving/tree/master/0680-valid-palindrome-ii) |
 | [0752-open-the-lock](https://github.com/sanjeev662/problem-solving/tree/master/0752-open-the-lock) |
 | [0812-rotate-string](https://github.com/sanjeev662/problem-solving/tree/master/0812-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/sanjeev662/problem-solving/tree/master/0844-backspace-string-compare) |
 | [0953-verifying-an-alien-dictionary](https://github.com/sanjeev662/problem-solving/tree/master/0953-verifying-an-alien-dictionary) |
 | [1078-remove-outermost-parentheses](https://github.com/sanjeev662/problem-solving/tree/master/1078-remove-outermost-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/sanjeev662/problem-solving/tree/master/1894-merge-strings-alternately) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sanjeev662/problem-solving/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sanjeev662/problem-solving/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sanjeev662/problem-solving/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/sanjeev662/problem-solving/tree/master/0844-backspace-string-compare) |
 | [0883-car-fleet](https://github.com/sanjeev662/problem-solving/tree/master/0883-car-fleet) |
 | [1078-remove-outermost-parentheses](https://github.com/sanjeev662/problem-solving/tree/master/1078-remove-outermost-parentheses) |
 ## Two Pointers
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sanjeev662/problem-solving/tree/master/0189-rotate-array) |
 | [0647-palindromic-substrings](https://github.com/sanjeev662/problem-solving/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/sanjeev662/problem-solving/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/sanjeev662/problem-solving/tree/master/0844-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/sanjeev662/problem-solving/tree/master/1894-merge-strings-alternately) |
 ## Trie
 |  |
