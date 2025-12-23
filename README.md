@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/sanjeev662/problem-solving/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/sanjeev662/problem-solving/tree/master/0997-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sanjeev662/problem-solving/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sanjeev662/problem-solving/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2058-concatenation-of-array](https://github.com/sanjeev662/problem-solving/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/sanjeev662/problem-solving/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/sanjeev662/problem-solving/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sanjeev662/problem-solving/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sanjeev662/problem-solving/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Matrix
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/sanjeev662/problem-solving/tree/master/0844-backspace-string-compare) |
 | [0883-car-fleet](https://github.com/sanjeev662/problem-solving/tree/master/0883-car-fleet) |
 | [1078-remove-outermost-parentheses](https://github.com/sanjeev662/problem-solving/tree/master/1078-remove-outermost-parentheses) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sanjeev662/problem-solving/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Two Pointers
 |  |
 | ------- |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/sanjeev662/problem-solving/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/sanjeev662/problem-solving/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/sanjeev662/problem-solving/tree/master/0844-backspace-string-compare) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sanjeev662/problem-solving/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1894-merge-strings-alternately](https://github.com/sanjeev662/problem-solving/tree/master/1894-merge-strings-alternately) |
 ## Trie
 |  |
@@ -366,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/sanjeev662/problem-solving/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/sanjeev662/problem-solving/tree/master/0883-car-fleet) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sanjeev662/problem-solving/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Interactive
 |  |
 | ------- |
