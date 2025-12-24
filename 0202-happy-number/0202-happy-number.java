@@ -21,4 +21,6 @@ class Solution {
         }
         return sum;
     }
+
+    // “The loop always exits because the sequence either reaches 1 or enters a cycle, and Floyd’s algorithm guarantees that slow and fast pointers will meet in both cases.”
 }
