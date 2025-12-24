@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sanjeev662/problem-solving/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sanjeev662/problem-solving/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/sanjeev662/problem-solving/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/sanjeev662/problem-solving/tree/master/0268-missing-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sanjeev662/problem-solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/sanjeev662/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sanjeev662/problem-solving/tree/master/0417-pacific-atlantic-water-flow) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sanjeev662/problem-solving/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sanjeev662/problem-solving/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sanjeev662/problem-solving/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sanjeev662/problem-solving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sanjeev662/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjeev662/problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0752-open-the-lock](https://github.com/sanjeev662/problem-solving/tree/master/0752-open-the-lock) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sanjeev662/problem-solving/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/sanjeev662/problem-solving/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanjeev662/problem-solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanjeev662/problem-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjeev662/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/sanjeev662/problem-solving/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/sanjeev662/problem-solving/tree/master/0374-guess-number-higher-or-lower) |
 | [0713-subarray-product-less-than-k](https://github.com/sanjeev662/problem-solving/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/sanjeev662/problem-solving/tree/master/0792-binary-search) |
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sanjeev662/problem-solving/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sanjeev662/problem-solving/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sanjeev662/problem-solving/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/sanjeev662/problem-solving/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/sanjeev662/problem-solving/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/sanjeev662/problem-solving/tree/master/1137-n-th-tribonacci-number) |
 | [2050-count-good-numbers](https://github.com/sanjeev662/problem-solving/tree/master/2050-count-good-numbers) |
@@ -250,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sanjeev662/problem-solving/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sanjeev662/problem-solving/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sanjeev662/problem-solving/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sanjeev662/problem-solving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sanjeev662/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/sanjeev662/problem-solving/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/sanjeev662/problem-solving/tree/master/0948-sort-an-array) |
