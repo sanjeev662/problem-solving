@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sanjeev662/problem-solving/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/sanjeev662/problem-solving/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/sanjeev662/problem-solving/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sanjeev662/problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sanjeev662/problem-solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/sanjeev662/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sanjeev662/problem-solving/tree/master/0417-pacific-atlantic-water-flow) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/sanjeev662/problem-solving/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sanjeev662/problem-solving/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sanjeev662/problem-solving/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanjeev662/problem-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjeev662/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/sanjeev662/problem-solving/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sanjeev662/problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/sanjeev662/problem-solving/tree/master/0374-guess-number-higher-or-lower) |
 | [0713-subarray-product-less-than-k](https://github.com/sanjeev662/problem-solving/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/sanjeev662/problem-solving/tree/master/0792-binary-search) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sanjeev662/problem-solving/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sanjeev662/problem-solving/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/sanjeev662/problem-solving/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/sanjeev662/problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/sanjeev662/problem-solving/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/sanjeev662/problem-solving/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/sanjeev662/problem-solving/tree/master/0844-backspace-string-compare) |
