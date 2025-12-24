@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/sanjeev662/problem-solving/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/sanjeev662/problem-solving/tree/master/0997-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sanjeev662/problem-solving/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1539-kth-missing-positive-number](https://github.com/sanjeev662/problem-solving/tree/master/1539-kth-missing-positive-number) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sanjeev662/problem-solving/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2058-concatenation-of-array](https://github.com/sanjeev662/problem-solving/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/sanjeev662/problem-solving/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/sanjeev662/problem-solving/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sanjeev662/problem-solving/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1539-kth-missing-positive-number](https://github.com/sanjeev662/problem-solving/tree/master/1539-kth-missing-positive-number) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sanjeev662/problem-solving/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Matrix
 |  |
