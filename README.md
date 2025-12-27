@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sanjeev662/problem-solving/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sanjeev662/problem-solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sanjeev662/problem-solving/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/sanjeev662/problem-solving/tree/master/0257-binary-tree-paths) |
 | [0394-decode-string](https://github.com/sanjeev662/problem-solving/tree/master/0394-decode-string) |
 | [0647-palindromic-substrings](https://github.com/sanjeev662/problem-solving/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/sanjeev662/problem-solving/tree/master/0680-valid-palindrome-ii) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/sanjeev662/problem-solving/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/sanjeev662/problem-solving/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/sanjeev662/problem-solving/tree/master/0257-binary-tree-paths) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sanjeev662/problem-solving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sanjeev662/problem-solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sanjeev662/problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/sanjeev662/problem-solving/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/sanjeev662/problem-solving/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sanjeev662/problem-solving/tree/master/0543-diameter-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sanjeev662/problem-solving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sanjeev662/problem-solving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sanjeev662/problem-solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sanjeev662/problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/sanjeev662/problem-solving/tree/master/0257-binary-tree-paths) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sanjeev662/problem-solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/sanjeev662/problem-solving/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/sanjeev662/problem-solving/tree/master/0543-diameter-of-binary-tree) |
@@ -473,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sanjeev662/problem-solving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sanjeev662/problem-solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sanjeev662/problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/sanjeev662/problem-solving/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/sanjeev662/problem-solving/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sanjeev662/problem-solving/tree/master/0543-diameter-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sanjeev662/problem-solving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
