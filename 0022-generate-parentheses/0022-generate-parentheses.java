@@ -34,7 +34,7 @@ class Solution {
                     str.setLength(str.length() - 1);
                     flag=true;
                 }
-                if(open>0 && open>close && open<=n){
+                if(open>close){
                     str.append(')');
                     if(!flag)
                     ls.set(j,new Element(str.toString(),open,close+1));
