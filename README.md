@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sanjeev662/problem-solving/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sanjeev662/problem-solving/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sanjeev662/problem-solving/tree/master/0287-find-the-duplicate-number) |
+| [0784-letter-case-permutation](https://github.com/sanjeev662/problem-solving/tree/master/0784-letter-case-permutation) |
 ## Binary Search
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/sanjeev662/problem-solving/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/sanjeev662/problem-solving/tree/master/0680-valid-palindrome-ii) |
 | [0752-open-the-lock](https://github.com/sanjeev662/problem-solving/tree/master/0752-open-the-lock) |
+| [0784-letter-case-permutation](https://github.com/sanjeev662/problem-solving/tree/master/0784-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/sanjeev662/problem-solving/tree/master/0812-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/sanjeev662/problem-solving/tree/master/0844-backspace-string-compare) |
 | [0953-verifying-an-alien-dictionary](https://github.com/sanjeev662/problem-solving/tree/master/0953-verifying-an-alien-dictionary) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/sanjeev662/problem-solving/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/sanjeev662/problem-solving/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/sanjeev662/problem-solving/tree/master/0257-binary-tree-paths) |
+| [0784-letter-case-permutation](https://github.com/sanjeev662/problem-solving/tree/master/0784-letter-case-permutation) |
 ## Monotonic Stack
 |  |
 | ------- |
