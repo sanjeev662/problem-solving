@@ -6,7 +6,7 @@ class Solution {
         minHeap.offer(nums[i]);
 
         if(minHeap.size()>k){
-            minHeap.remove();
+            minHeap.poll();
         }
        }
 
