@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sanjeev662/problem-solving/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjeev662/problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0752-open-the-lock](https://github.com/sanjeev662/problem-solving/tree/master/0752-open-the-lock) |
+| [0767-reorganize-string](https://github.com/sanjeev662/problem-solving/tree/master/0767-reorganize-string) |
 | [0816-design-hashset](https://github.com/sanjeev662/problem-solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sanjeev662/problem-solving/tree/master/0817-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/sanjeev662/problem-solving/tree/master/0904-fruit-into-baskets) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/sanjeev662/problem-solving/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/sanjeev662/problem-solving/tree/master/0680-valid-palindrome-ii) |
 | [0752-open-the-lock](https://github.com/sanjeev662/problem-solving/tree/master/0752-open-the-lock) |
+| [0767-reorganize-string](https://github.com/sanjeev662/problem-solving/tree/master/0767-reorganize-string) |
 | [0784-letter-case-permutation](https://github.com/sanjeev662/problem-solving/tree/master/0784-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/sanjeev662/problem-solving/tree/master/0812-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/sanjeev662/problem-solving/tree/master/0844-backspace-string-compare) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/sanjeev662/problem-solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/sanjeev662/problem-solving/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/sanjeev662/problem-solving/tree/master/0658-find-k-closest-elements) |
+| [0767-reorganize-string](https://github.com/sanjeev662/problem-solving/tree/master/0767-reorganize-string) |
 | [0883-car-fleet](https://github.com/sanjeev662/problem-solving/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/sanjeev662/problem-solving/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/sanjeev662/problem-solving/tree/master/0973-k-closest-points-to-origin) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sanjeev662/problem-solving/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sanjeev662/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sanjeev662/problem-solving/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/sanjeev662/problem-solving/tree/master/0767-reorganize-string) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sanjeev662/problem-solving/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 ## Heap (Priority Queue)
 |  |
@@ -376,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sanjeev662/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sanjeev662/problem-solving/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/sanjeev662/problem-solving/tree/master/0658-find-k-closest-elements) |
+| [0767-reorganize-string](https://github.com/sanjeev662/problem-solving/tree/master/0767-reorganize-string) |
 | [0948-sort-an-array](https://github.com/sanjeev662/problem-solving/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/sanjeev662/problem-solving/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
@@ -422,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sanjeev662/problem-solving/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sanjeev662/problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/sanjeev662/problem-solving/tree/master/0680-valid-palindrome-ii) |
+| [0767-reorganize-string](https://github.com/sanjeev662/problem-solving/tree/master/0767-reorganize-string) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sanjeev662/problem-solving/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 ## Sliding Window
 |  |
