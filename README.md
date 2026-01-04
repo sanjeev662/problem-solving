@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/sanjeev662/problem-solving/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/sanjeev662/problem-solving/tree/master/0997-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sanjeev662/problem-solving/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sanjeev662/problem-solving/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1539-kth-missing-positive-number](https://github.com/sanjeev662/problem-solving/tree/master/1539-kth-missing-positive-number) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sanjeev662/problem-solving/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2058-concatenation-of-array](https://github.com/sanjeev662/problem-solving/tree/master/2058-concatenation-of-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/sanjeev662/problem-solving/tree/master/0904-fruit-into-baskets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/sanjeev662/problem-solving/tree/master/0953-verifying-an-alien-dictionary) |
 | [0997-find-the-town-judge](https://github.com/sanjeev662/problem-solving/tree/master/0997-find-the-town-judge) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sanjeev662/problem-solving/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/sanjeev662/problem-solving/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/sanjeev662/problem-solving/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/sanjeev662/problem-solving/tree/master/0973-k-closest-points-to-origin) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sanjeev662/problem-solving/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 ## String Matching
 |  |
 | ------- |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sanjeev662/problem-solving/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sanjeev662/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sanjeev662/problem-solving/tree/master/0451-sort-characters-by-frequency) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sanjeev662/problem-solving/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -418,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sanjeev662/problem-solving/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sanjeev662/problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/sanjeev662/problem-solving/tree/master/0680-valid-palindrome-ii) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sanjeev662/problem-solving/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 ## Sliding Window
 |  |
 | ------- |
