@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sanjeev662/problem-solving/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/sanjeev662/problem-solving/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sanjeev662/problem-solving/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanjeev662/problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sanjeev662/problem-solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sanjeev662/problem-solving/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/sanjeev662/problem-solving/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/sanjeev662/problem-solving/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/sanjeev662/problem-solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sanjeev662/problem-solving/tree/master/0142-linked-list-cycle-ii) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sanjeev662/problem-solving/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanjeev662/problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sanjeev662/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sanjeev662/problem-solving/tree/master/0451-sort-characters-by-frequency) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sanjeev662/problem-solving/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/sanjeev662/problem-solving/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
