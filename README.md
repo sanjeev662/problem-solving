@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/sanjeev662/problem-solving/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sanjeev662/problem-solving/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/sanjeev662/problem-solving/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/sanjeev662/problem-solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/sanjeev662/problem-solving/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/sanjeev662/problem-solving/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/sanjeev662/problem-solving/tree/master/1137-n-th-tribonacci-number) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/sanjeev662/problem-solving/tree/master/0257-binary-tree-paths) |
 | [0394-decode-string](https://github.com/sanjeev662/problem-solving/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sanjeev662/problem-solving/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/sanjeev662/problem-solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/sanjeev662/problem-solving/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/sanjeev662/problem-solving/tree/master/0680-valid-palindrome-ii) |
 | [0752-open-the-lock](https://github.com/sanjeev662/problem-solving/tree/master/0752-open-the-lock) |
