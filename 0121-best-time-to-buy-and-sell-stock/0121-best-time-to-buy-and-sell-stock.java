@@ -1,16 +1,16 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        int i=0,maxp=0,buy=prices[0], n=prices.length;
-        while(i<n){
-            if(buy>prices[i])
-            {
-                buy=prices[i];
+        int minPrice = Integer.MAX_VALUE;
+        int maxProfit = 0;
+
+        for (int price : prices) {
+            if (price < minPrice) {
+                minPrice = price;   // best day to buy so far
+            } else {
+                maxProfit = Math.max(maxProfit, price - minPrice);
             }
-            int p=prices[i]-buy;
-            if(maxp<p)
-            maxp=p;
-            i++;
         }
-        return maxp;
+
+        return maxProfit;
     }
 }
