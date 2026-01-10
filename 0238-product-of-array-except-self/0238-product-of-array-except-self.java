@@ -1,38 +1,21 @@
 class Solution {
     public int[] productExceptSelf(int[] nums) {
-        int multi=1;
-        boolean isZero=false;
-        boolean isNonZero=false;
-        boolean isDoubleZero=false;
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]!=0){
-            multi*=nums[i];
-            isNonZero=true;
-            }
-            else if(isZero){
-                isDoubleZero=true;
-            }
-            else
-            isZero=true;
+        int n = nums.length;
+        int[] answer = new int[n];
+
+        // Step 1: prefix products
+        answer[0] = 1;
+        for (int i = 1; i < n; i++) {
+            answer[i] = answer[i - 1] * nums[i - 1];
         }
 
-        for(int i=0;i<nums.length;i++){
-            if(isNonZero && !isDoubleZero){
-            if(isZero && nums[i]!=0)
-            {
-                nums[i]=0;
-            }
-            else if(nums[i]==0)
-            {
-                nums[i]=multi;
-            }else{
-                nums[i]=multi/nums[i];
-            }}else{
-                nums[i]=0;
-            }
+        // Step 2: suffix products
+        int suffix = 1;
+        for (int i = n - 1; i >= 0; i--) {
+            answer[i] = answer[i] * suffix;
+            suffix *= nums[i];
         }
 
-        return nums;
-
+        return answer;
     }
 }
