@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/sanjeev662/problem-solving/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/sanjeev662/problem-solving/tree/master/0812-rotate-string) |
 ## Database
 |  |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/sanjeev662/problem-solving/tree/master/0572-subtree-of-another-tree) |
 | [0816-design-hashset](https://github.com/sanjeev662/problem-solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sanjeev662/problem-solving/tree/master/0817-design-hashmap) |
 ## Counting
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/sanjeev662/problem-solving/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/sanjeev662/problem-solving/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sanjeev662/problem-solving/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/sanjeev662/problem-solving/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sanjeev662/problem-solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sanjeev662/problem-solving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/sanjeev662/problem-solving/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/sanjeev662/problem-solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/sanjeev662/problem-solving/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/sanjeev662/problem-solving/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/sanjeev662/problem-solving/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/sanjeev662/problem-solving/tree/master/0695-max-area-of-island) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sanjeev662/problem-solving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/sanjeev662/problem-solving/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -548,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/sanjeev662/problem-solving/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/sanjeev662/problem-solving/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sanjeev662/problem-solving/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/sanjeev662/problem-solving/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sanjeev662/problem-solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sanjeev662/problem-solving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/sanjeev662/problem-solving/tree/master/1450-delete-leaves-with-a-given-value) |
