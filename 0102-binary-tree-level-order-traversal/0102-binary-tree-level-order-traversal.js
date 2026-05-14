@@ -15,13 +15,14 @@ var levelOrder = function(root) {
     if(root==null) return ans;
 
     const queue=[root];
+    let front=0;
     
-    while(queue.length>0){
-        const size=queue.length;
+    while(front<queue.length){
+        const size=queue.length-front;
         const level=[];
 
         for(let i=0;i<size;i++){
-            const TreeNode=queue.shift();
+            const TreeNode=queue[front++];
 
             level.push(TreeNode.val);
             if(TreeNode.left!=null) queue.push(TreeNode.left);
