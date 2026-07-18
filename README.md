@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sanjeev662/problem-solving/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sanjeev662/problem-solving/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sanjeev662/problem-solving/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/sanjeev662/problem-solving/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sanjeev662/problem-solving/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sanjeev662/problem-solving/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sanjeev662/problem-solving/tree/master/0078-subsets) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sanjeev662/problem-solving/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjeev662/problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/sanjeev662/problem-solving/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/sanjeev662/problem-solving/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sanjeev662/problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/sanjeev662/problem-solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sanjeev662/problem-solving/tree/master/0142-linked-list-cycle-ii) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/sanjeev662/problem-solving/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sanjeev662/problem-solving/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/sanjeev662/problem-solving/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sanjeev662/problem-solving/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/sanjeev662/problem-solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sanjeev662/problem-solving/tree/master/0200-number-of-islands) |
