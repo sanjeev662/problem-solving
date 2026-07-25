@@ -1,27 +1,31 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        
-        int i = m - 1;  // Pointer for last element of meaningful part of nums1
-        int j = n - 1;  // Pointer for last element of nums2
-        int k = m + n - 1;  // Pointer for last position in nums1
+        int arr1pointer=m-1;
+        int arr2pointer=n-1;
+        int ind=m+n-1;
 
-        // Merge from the back to avoid overwriting nums1
-        while (i >= 0 && j >= 0) {
-            if (nums1[i] > nums2[j]) {
-                nums1[k] = nums1[i];
-                i--;
-            } else {
-                nums1[k] = nums2[j];
-                j--;
+        while(arr1pointer>=0 && arr2pointer>=0){
+            if(nums1[arr1pointer]<=nums2[arr2pointer]){
+                nums1[ind]=nums2[arr2pointer];
+                ind--;
+                arr2pointer--;
+            }else{
+                nums1[ind]=nums1[arr1pointer];
+                ind--;
+                arr1pointer--;        
             }
-            k--;
         }
 
-        // If any elements left in nums2, copy them
-        while (j >= 0) {
-            nums1[k] = nums2[j];
-            j--;
-            k--;
+        while(arr1pointer>=0){
+            nums1[ind]=nums1[arr1pointer];
+            arr1pointer--;
+            ind--;
+        }
+
+        while(arr2pointer>=0){
+            nums1[ind]=nums2[arr2pointer];
+            arr2pointer--;
+            ind--;
         }
     }
 }
