@@ -15,13 +15,7 @@ class Solution {
                 arr1pointer--;        
             }
         }
-
-        while(arr1pointer>=0){
-            nums1[ind]=nums1[arr1pointer];
-            arr1pointer--;
-            ind--;
-        }
-
+        
         while(arr2pointer>=0){
             nums1[ind]=nums2[arr2pointer];
             arr2pointer--;
