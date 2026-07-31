@@ -46,7 +46,7 @@ public class Solution {
 
         while(bb!=null && aa!=null){
             if(bb==aa){
-                return new ListNode(bb.val);
+                return aa;
             }
             bb=bb.next;
             aa=aa.next;
