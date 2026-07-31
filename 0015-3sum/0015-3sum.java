@@ -1,39 +1,34 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        List<List<Integer>> triplets=new ArrayList<>();
-
         Arrays.sort(nums);
         int n=nums.length;
+        List<List<Integer>> ans=new ArrayList<>();
 
         for(int i=0;i<n;i++){
-            if(i!=0){
-                if(nums[i-1]==nums[i])
-                continue;
-            }
-            findtriplet(nums,-nums[i],i+1,triplets);           
+            if(i>0 && nums[i]==nums[i-1])
+            continue;
+            twoSum(nums,i,ans);
         }
-        return triplets;
+        return ans;       
     }
 
-    public void findtriplet(int[] nums, int target, int ind,List<List<Integer>> triplets){
-        int start=ind;
-        int end=nums.length-1;
+    public void twoSum(int[] nums,int i,List<List<Integer>> ans){
+        int left=i+1;
+        int right=nums.length-1;
 
-        while(start<end){
-            if(nums[start]+nums[end]>target){
-                end--;
-            }else if(nums[start]+nums[end]<target){
-                start++;
+        while(left<right){
+            int sum=nums[i]+nums[left]+nums[right];
+
+            if(sum==0){
+                ans.add(Arrays.asList(nums[i],nums[left],nums[right]));
+                left++;
+                right--;
+                while(left<right && nums[left]==nums[left-1]) left++;
+                while(left<right && nums[right]==nums[right+1]) right--;
+            }else if(sum<0){
+                left++;
             }else{
-                triplets.add(Arrays.asList(-target, nums[start], nums[end]));
-                end--;
-                start++;
-                while (start < end && nums[start] == nums[start - 1]) {
-                    start++;
-                }
-                while (start < end && nums[end] == nums[end + 1]) {
-                    end--;
-                }
+                right--;
             }
         }
     }
