@@ -28,11 +28,8 @@ class Solution {
             nn--;
         }
 
-        if(curr!=null && curr.next!=null)
         curr.next=curr.next.next;
-        else
-        curr.next=null;
-
+        
         return head;
     }
 }
