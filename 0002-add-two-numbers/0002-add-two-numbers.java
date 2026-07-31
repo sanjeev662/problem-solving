@@ -14,8 +14,12 @@ class Solution {
         ListNode curr=asum;
         int extra=0;
 
-        while(l1!=null && l2!=null){
-            int sum=l1.val+l2.val+extra;
+        while(l1!=null || l2!=null || extra>0){
+
+            int val1=(l1!=null) ? l1.val : 0;
+            int val2=(l2!=null) ? l2.val : 0;
+
+            int sum = val1+val2+extra;
             extra=sum/10;
             int val=sum%10;
 
@@ -23,38 +27,10 @@ class Solution {
             curr.next=temp;
             curr=curr.next;
 
+            if(l1!=null)
             l1=l1.next;
+            if(l2!=null)
             l2=l2.next;
-        }
-
-        while(l1!=null){
-            int sum=l1.val+extra;
-            extra=sum/10;
-            int val=sum%10;
-
-            ListNode temp=new ListNode(val);
-            curr.next=temp;
-            curr=curr.next;
-
-            l1=l1.next;
-        }
-
-        while(l2!=null){
-            int sum=l2.val+extra;
-            extra=sum/10;
-            int val=sum%10;
-
-            ListNode temp=new ListNode(val);
-            curr.next=temp;
-            curr=curr.next;
-
-            l2=l2.next;
-        }
-
-        if(extra>0){
-            ListNode temp=new ListNode(extra);
-            curr.next=temp;
-            curr=curr.next;
         }
 
         return asum.next;
