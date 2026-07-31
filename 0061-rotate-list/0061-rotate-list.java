@@ -27,7 +27,6 @@ class Solution {
 
         while(curr!=null){
             nn--;
-            ListNode temp=null;
             if(nn==0){
                 newhead=curr.next;
                 curr.next=null;
@@ -36,6 +35,7 @@ class Solution {
                     tt=tt.next;
                 }
                 tt.next=head;
+                break;
             }
             curr=curr.next;
         }
