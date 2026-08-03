@@ -1,13 +1,31 @@
 class Solution {
     public String reverseWords(String s) {
-        String[] ss = s.trim().split("\\s+");
-        String ans="";
-        for(int i=ss.length-1;i>=0;i--){
-            ans=ans+ss[i];
-            if(i!=0){
-                ans+=" ";
+        String ans = "";
+        String temp = "";
+
+        for (int i = s.length() - 1; i >= 0; i--) {
+            char ch = s.charAt(i);
+
+            if (ch != ' ') {
+                temp = ch + temp;
+            } else {
+                if (!temp.isEmpty()) {
+                    if (!ans.isEmpty()) {
+                        ans += " ";
+                    }
+                    ans += temp;
+                    temp = "";
+                }
             }
         }
+
+        if (!temp.isEmpty()) {
+            if (!ans.isEmpty()) {
+                ans += " ";
+            }
+            ans += temp;
+        }
+
         return ans;
     }
 }
