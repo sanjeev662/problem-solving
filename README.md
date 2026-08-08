@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/sanjeev662/problem-solving/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/sanjeev662/problem-solving/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/sanjeev662/problem-solving/tree/master/0680-valid-palindrome-ii) |
+| [0686-repeated-string-match](https://github.com/sanjeev662/problem-solving/tree/master/0686-repeated-string-match) |
 | [0752-open-the-lock](https://github.com/sanjeev662/problem-solving/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/sanjeev662/problem-solving/tree/master/0767-reorganize-string) |
 | [0784-letter-case-permutation](https://github.com/sanjeev662/problem-solving/tree/master/0784-letter-case-permutation) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/sanjeev662/problem-solving/tree/master/0572-subtree-of-another-tree) |
+| [0686-repeated-string-match](https://github.com/sanjeev662/problem-solving/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/sanjeev662/problem-solving/tree/master/0812-rotate-string) |
 ## Database
 |  |
@@ -647,4 +649,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sanjeev662/problem-solving/tree/master/0005-longest-palindromic-substring) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/sanjeev662/problem-solving/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/sanjeev662/problem-solving/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/sanjeev662/problem-solving/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
