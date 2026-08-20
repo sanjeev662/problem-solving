@@ -18,14 +18,12 @@ class Solution {
         if(root==null) return 0;
         int dial=diameterOfBinaryTree(root.left);
         int diar=diameterOfBinaryTree(root.right);
-        int dia=height(root.left)+height(root.right);
-        return Math.max(Math.max(dial,diar),dia);
+        int dia1=height(root.left)+height(root.right);
+        return Math.max(Math.max(dial,diar),dia1);
     }
 
     public int height(TreeNode root){
         if(root==null) return 0;
-        int lh=height(root.left);
-        int rh=height(root.right);
-        return Math.max(lh,rh)+1;
+        return Math.max(height(root.left)+1,height(root.right)+1);
     }
 }
