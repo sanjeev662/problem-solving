@@ -669,4 +669,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/sanjeev662/problem-solving/tree/master/0686-repeated-string-match) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/sanjeev662/problem-solving/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
