@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/sanjeev662/problem-solving/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/sanjeev662/problem-solving/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanjeev662/problem-solving/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanjeev662/problem-solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sanjeev662/problem-solving/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sanjeev662/problem-solving/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1539-kth-missing-positive-number](https://github.com/sanjeev662/problem-solving/tree/master/1539-kth-missing-positive-number) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/sanjeev662/problem-solving/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/sanjeev662/problem-solving/tree/master/0844-backspace-string-compare) |
 | [0883-car-fleet](https://github.com/sanjeev662/problem-solving/tree/master/0883-car-fleet) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanjeev662/problem-solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/sanjeev662/problem-solving/tree/master/1078-remove-outermost-parentheses) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sanjeev662/problem-solving/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Two Pointers
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/sanjeev662/problem-solving/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/sanjeev662/problem-solving/tree/master/0883-car-fleet) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanjeev662/problem-solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sanjeev662/problem-solving/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Interactive
 |  |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/sanjeev662/problem-solving/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sanjeev662/problem-solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sanjeev662/problem-solving/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanjeev662/problem-solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sanjeev662/problem-solving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/sanjeev662/problem-solving/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Depth-First Search
@@ -634,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/sanjeev662/problem-solving/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sanjeev662/problem-solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sanjeev662/problem-solving/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanjeev662/problem-solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sanjeev662/problem-solving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/sanjeev662/problem-solving/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
@@ -670,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/sanjeev662/problem-solving/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sanjeev662/problem-solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sanjeev662/problem-solving/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanjeev662/problem-solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Graph
 |  |
 | ------- |
