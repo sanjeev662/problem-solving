@@ -14,20 +14,16 @@
  * }
  */
 class Solution {
+    List<Integer> inorderls=new ArrayList<>();
     public int kthSmallest(TreeNode root, int k) {
-        List<Integer> ls=new LinkedList<>();
-        List<Integer> lsans=inOrderTraversal(root,ls);
-
-        return lsans.get(k-1);
+        inorderdfs(root);
+        return inorderls.get(k-1);
     }
 
-    public List<Integer> inOrderTraversal(TreeNode root,List<Integer> ls){
-        if(root==null) return ls;
-        inOrderTraversal(root.left,ls);
-        ls.add(root.val);
-        inOrderTraversal(root.right,ls);
-        return ls;
+    public void inorderdfs(TreeNode root){
+        if(root==null) return;
+        inorderdfs(root.left);
+        inorderls.add(root.val);
+        inorderdfs(root.right);
     }
-
-
 }
