@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sanjeev662/problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/sanjeev662/problem-solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sanjeev662/problem-solving/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/sanjeev662/problem-solving/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sanjeev662/problem-solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sanjeev662/problem-solving/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sanjeev662/problem-solving/tree/master/0202-happy-number) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sanjeev662/problem-solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sanjeev662/problem-solving/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/sanjeev662/problem-solving/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/sanjeev662/problem-solving/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sanjeev662/problem-solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/sanjeev662/problem-solving/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sanjeev662/problem-solving/tree/master/0234-palindrome-linked-list) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/sanjeev662/problem-solving/tree/master/0146-lru-cache) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sanjeev662/problem-solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0816-design-hashset](https://github.com/sanjeev662/problem-solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sanjeev662/problem-solving/tree/master/0817-design-hashmap) |
@@ -728,4 +731,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sanjeev662/problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sanjeev662/problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sanjeev662/problem-solving/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
