@@ -11,39 +11,43 @@
 class Solution {
     public void reorderList(ListNode head) {
         ListNode curr=head;
+        ListNode fast=head.next;
         ListNode slow=head;
-        ListNode fast=head;
 
         while(fast!=null && fast.next!=null){
-            slow=slow.next;
             fast=fast.next.next;
+            slow=slow.next;
         }
 
-        ListNode rHalf=reverseList(slow.next);
-        slow.next = null;
+        ListNode second=slow.next;
+        slow.next=null;
 
-        while(rHalf!=null){
-            ListNode temp=curr.next;
-            ListNode tempr=rHalf.next;
+        ListNode opp=reverse(second);
 
-            curr.next=rHalf;
-            rHalf.next=temp;
+        while(curr!=null && opp!=null){
+            ListNode tempstart=curr.next;
+            ListNode tempend=opp.next;
 
-            rHalf=tempr;
-            curr=temp;
+            curr.next=opp;
+            opp.next=tempstart;
+
+            opp=tempend;
+            curr=tempstart;
         }
 
     }
 
-    private ListNode reverseList(ListNode head){
+    public ListNode reverse(ListNode head){
         ListNode curr=head;
         ListNode prev=null;
+
         while(curr!=null){
-           ListNode temp=curr.next;
-           curr.next=prev;
-           prev=curr;
-           curr=temp;
+            ListNode temp=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=temp;
         }
+
         return prev;
     }
 }
