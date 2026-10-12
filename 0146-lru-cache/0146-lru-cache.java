@@ -1,12 +1,12 @@
 class LRUCache {
 
     class Node{
-        int key;
         int val;
+        int key;
         Node prev;
         Node next;
 
-        Node(int key,int val){
+        public Node(int key,int val){
             this.key=key;
             this.val=val;
         }
@@ -18,6 +18,7 @@ class LRUCache {
     private Node head;
     private Node tail;
 
+
     public LRUCache(int capacity) {
         this.capacity=capacity;
         this.map=new HashMap<>();
@@ -26,15 +27,14 @@ class LRUCache {
         tail=new Node(0,0);
 
         head.next=tail;
-        tail.prev=head;      
+        tail.prev=head;
     }
     
     public int get(int key) {
-        if(!map.containsKey(key)){
-            return -1;
-        }
+        if(!map.containsKey(key))
+        return -1;
 
-        Node node = map.get(key);
+        Node node=map.get(key);
         remove(node);
         addAtHead(node);
         return node.val;
@@ -42,14 +42,13 @@ class LRUCache {
     
     public void put(int key, int value) {
         if(!map.containsKey(key)){
-            //check capacity if full then remove lru node
             if(map.size()>=capacity){
-                Node lruNode = tail.prev;
+                Node lruNode=tail.prev;
                 remove(lruNode);
                 map.remove(lruNode.key);
             }
 
-            Node newNode = new Node(key,value);
+            Node newNode=new Node(key,value);
             addAtHead(newNode);
             map.put(key,newNode);
         }else{
@@ -71,10 +70,10 @@ class LRUCache {
     public void addAtHead(Node node){
         Node mruNode=head.next;
 
-        node.next=mruNode;
+        head.next=node;
         node.prev=head;
 
-        head.next=node;
+        node.next=mruNode;
         mruNode.prev=node;
     }
 }
