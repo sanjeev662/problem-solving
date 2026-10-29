@@ -20,10 +20,12 @@ class Solution {
         int diar=diameterOfBinaryTree(root.right);
         int dia1=height(root.left)+height(root.right);
         return Math.max(Math.max(dial,diar),dia1);
+
     }
 
     public int height(TreeNode root){
         if(root==null) return 0;
-        return Math.max(height(root.left)+1,height(root.right)+1);
+
+        return Math.max(height(root.left),height(root.right))+1;
     }
 }
